@@ -1,0 +1,8 @@
+numpy
+matplotlib
+shutils
+scipy
+ipympl
+opencv-contrib-python
+altair
+plotly
